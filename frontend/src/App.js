@@ -1,10 +1,13 @@
 import "./App.css";
+import Card from "./components/Card";
+import Topnav from "./components/Topnav";
 
 function App() {
-  return (
-    <div>
-    App
-    </div>
+  return (    
+    <div className="container">
+      <Topnav />
+      <Card />
+    </div>    
   );
 }
 
