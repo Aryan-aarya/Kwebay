@@ -1,7 +1,7 @@
 import "./App.css";
 import Card from "./components/Card";
 import Topnav from "./components/Topnav";
-import NavBar from "./component/NavBar";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (    
